@@ -1,0 +1,20 @@
+{
+  "name": "mr-volley",
+  "version": "1.0.0",
+  "description": "a simple simple boy ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "harshil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
